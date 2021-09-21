@@ -20,7 +20,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
 
-## [String Session](https://replit.com/@legendx22/ULTRA-X)
+## [String Session](https://replit.com/@frankboyop/ULTRA-X-1#main.py)
 
 -------------------------------------------------
 

@@ -8,14 +8,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+# PEGASUS USERBOT
+ made for telegram. I made this USERBOT with help of all other USERBOT available in telegram. All credits goes to FRANK BOY....
 
-This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/PEGASUSUSERBOTOT) 
+This is the one and only official PEGASUS  USERBOT made by [ Team PEGASUS ](https://t.me/PEGASUS_USERBOT) 
 
 Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
 
-[![υℓтяα χ вσт ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/PEGASUSUSERBOTOT)
+[![PEGASUSUSERBOTLOGO](https://telegra.ph/file/835f00c1db9ab8914c2e4.jpg)](https://t.me/PEGASUS_USERBOT)
 
 -------------------------------------------------
 

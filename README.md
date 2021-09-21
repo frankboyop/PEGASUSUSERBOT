@@ -1,12 +1,4 @@
 
-* <b><a href ="https://github.com/ULTRA-OP/ULTRA-X#%CF%85%E2%84%93%D1%82%D1%8F%CE%B1-%CF%87-%D0%B2%CF%83%D1%82">Aʙᴏᴜᴛ υℓтяα χ </a>
-* <b><a href="https://github.com/ULTRA-OP/ULTRA-X/blob/main/README.md#s%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%9Cs-o%D2%93-t%CA%9C%C9%AAs-b%E1%B4%8F%E1%B4%9B">υℓтяα χ Sᴛᴀᴛᴜs <a/>
-* <b><a href="https://github.com/ULTRA-OP/ULTRA-X#d%E1%B4%87%E1%B4%98%CA%9F%E1%B4%8F%CA%8F-">Dᴇᴘʟᴏʏ</a>
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/legendx22/LEGEND-BOT?utm_source=github.com&utm_medium=referral&utm_content=legendx22/LEGEND-BOT&utm_campaign=Badge_Grade_Settings)
-[![Python 3.8.6](https://img.shields.io/badge/Python-3.8.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-386/)
-![GitHub repo size](https://img.shields.io/github/repo-size/ULTRA-OP/ULTRA-X)
-
 
 # PEGASUS USERBOT
  made for telegram. I made this USERBOT with help of all other USERBOT available in telegram. All credits goes to FRANK BOY....
@@ -100,8 +92,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 # Licence 📋
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-## Copyright (C) 2021 by Team Ultra for UltraX UserBot, < https://github.com/ULTRA-OP >.
+## Copyright (C) 2021 by frank boy team for PEGASUSUSERBOT, < https://github.com/frankboyop>.
 
 
-# ➥ ULTRA-X   »»  <a href="https://github.com/ULTRA-OP/ULTRA-X" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA X-413839?logo=github" /></a>
-# ➥ ULTRA-OP  »»  <a href="https://github.com/ULTRA-OP" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
+

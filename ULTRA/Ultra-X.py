@@ -28,7 +28,7 @@ uptime = tim
 #time = date + time okay
 TIME = time.asctime(time.localtime())
 #my name 👇
-ULTRAX = "[υℓтяα χ](https://t.me/ULTRAXOT)"
+PEGASUSUSERBOT = "[υℓтяα χ](https://t.me/PEGASUSUSERBOTOT)"
 #my bots repo 👇
 REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
@@ -37,7 +37,7 @@ REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
 global ghanti
 X = bot.uid
 MASTER = f"[{NAME}](tg://user?id={X})"
-GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
+GROUP = "[SUPPORT GROUP](https://t.me/PEGASUSUSERBOTCHAT)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
 ALIVE = "υℓтяα χ вσт ιѕ ση 🔥 ƒιяє 🔥" 

@@ -5,7 +5,7 @@
 import os
 import re
 from telethon import events, Button, custom
-from ULTRAX import ID
+from PEGASUSUSERBOT import ID
 from telethon.tl.custom import Button 
 from telethon import events, errors, custom, functions
 from ULTRA import CMD_HELP

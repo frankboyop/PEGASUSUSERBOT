@@ -1,1 +1,1 @@
-from ULTRAX import NAME, MASTER, BOT
+from PEGASUSUSERBOT import NAME, MASTER, BOT

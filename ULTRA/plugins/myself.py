@@ -4,7 +4,7 @@
 
 from telethon import events, Button, custom
 from ULTRA import bot
-from ULTRAX import xbot
+from PEGASUSUSERBOT import xbot
 from ULTRA import CMD_HELP
 
 BOT_USERNAME = Var.TG_BOT_USER_NAME_BF_HER

@@ -58,7 +58,7 @@ CMD_HELP_BOT = {}
 BRAIN_CHECKER = []
 INT_PLUG = ""
 LOAD_PLUG = {}
-#from ULTRAX import xbot 
+#from PEGASUSUSERBOT import xbot 
 #xbot = xbot 
 # PaperPlaneExtended Support Vars
 ENV = os.environ.get("ENV", False)
@@ -70,7 +70,7 @@ def HELP(**LEGENDX):
 		CMD_HELP.update({see: helper})
 	elif helper is None:
 		LEGENDX[
-		    "HELP"] = "🥺🥺NOT COMMAND HELP🥺🥺\nADDED HERE\nIF YOU WANT TO KNOW ABOUT THIS PLUG-IN\nJOIN @ULTRAXCHAT"
+		    "HELP"] = "🥺🥺NOT COMMAND HELP🥺🥺\nADDED HERE\nIF YOU WANT TO KNOW ABOUT THIS PLUG-IN\nJOIN @PEGASUSUSERBOTCHAT"
 	else:
 	  CMD_HELP.update({see: helper})
 	CMD_HELP.update({see: helper})

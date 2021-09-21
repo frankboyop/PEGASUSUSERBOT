@@ -6,7 +6,7 @@
 
 import asyncio
 import os
-from ULTRAX import BOT, PHOTO, VERSION, MSG
+from PEGASUSUSERBOT import BOT, PHOTO, VERSION, MSG
 import requests
 import time
 from PIL import Image
@@ -80,10 +80,10 @@ from ULTRA import bot
 async def repo(event):
     if event.fwd_from:
         return
-    ULTRAX = Var.TG_BOT_USER_NAME_BF_HER
+    PEGASUSUSERBOT = Var.TG_BOT_USER_NAME_BF_HER
     if event.reply_to_msg_id:
         await event.get_reply_message()
-    response = await bot.inline_query(ULTRAX, "alive")
+    response = await bot.inline_query(PEGASUSUSERBOT, "alive")
     await response[0].click(event.chat_id)
     await event.delete()
 from ULTRA.utils import admin_cmd
@@ -123,7 +123,7 @@ async def wisper(event):
 
 from telethon import events, Button, custom
 import os,re
-from ULTRAX import ID
+from PEGASUSUSERBOT import ID
 from telethon.tl.custom import Button 
 from telethon import events, errors, custom, functions
 @tgbot.on(events.InlineQuery(pattern=r"restart"))

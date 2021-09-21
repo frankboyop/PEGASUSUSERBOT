@@ -27,7 +27,7 @@ except:
   from LEGENDX import id, ID, devs
 finally:
   print ("ULTRA X IS STARTING WITH TELETHON") 
-from ULTRAX import xbot
+from PEGASUSUSERBOT import xbot
 from ULTRA import bot, CMD_HELP
 from sys import argv
 os.system("pip install telethon==1.20")

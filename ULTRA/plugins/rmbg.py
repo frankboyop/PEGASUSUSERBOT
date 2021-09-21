@@ -62,7 +62,7 @@ async def _(event):
     contentType = output_file_name.headers.get("content-type")
     if "image" in contentType:
         with io.BytesIO(output_file_name.content) as remove_bg_image:
-            remove_bg_image.name = "ULTRAX_RM_BG.png"
+            remove_bg_image.name = "PEGASUSUSERBOT_RM_BG.png"
             await borg.send_file(
                 event.chat_id,
                 remove_bg_image,

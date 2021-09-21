@@ -10,7 +10,7 @@ from telethon import Button, custom, events, functions, version
 
 from ULTRA import CMD_LIST
 from ULTRA import ALIVE_NAME
-from ULTRAX import PHOTO
+from PEGASUSUSERBOT import PHOTO
 from ULTRA.utils import admin_cmd, sudo_cmd
 from platform import uname
 

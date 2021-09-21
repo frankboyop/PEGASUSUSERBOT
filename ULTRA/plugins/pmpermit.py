@@ -8,7 +8,7 @@ import ULTRA.plugins.sql_helper.pmpermit_sql as ULTRA_X
 from ULTRA import ALIVE_NAME, bot
 from ULTRA.uniborgConfig import Config
 from var import Var
-from ULTRAX import NAME
+from PEGASUSUSERBOT import NAME
 ULTRA_USER = NAME
 from ULTRA.utils import admin_cmd as ultra_cmd
 ULTRA_WRN = {}
@@ -20,7 +20,7 @@ if SPAM is None:
 else:
     HMM_LOL = SPAM
 from ..import bot
-from ULTRAX import xbot
+from PEGASUSUSERBOT import xbot
 FUCK_OFF_WARN = f"**Blocked You As You Spammed {ULTRA_USER}'s DM\n\n **IDC**"
 async def LEGENDX(event, msg):
   global ULTRA_WRN

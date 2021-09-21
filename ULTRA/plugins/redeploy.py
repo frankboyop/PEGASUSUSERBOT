@@ -6,7 +6,7 @@ import asyncio
 import os
 import re
 import sys
-from ULTRAX import ID
+from PEGASUSUSERBOT import ID
 import requests
 from telethon import events, Button, custom, functions, errors
 from ULTRA.utils import admin_cmd, sudo_cmd

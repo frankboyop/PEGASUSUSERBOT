@@ -7,14 +7,14 @@ from ULTRA import bot
 from ULTRA.utils import admin_cmd
 
 bot = "@MissRose_bot"
-ULTRAX = NAME
+PEGASUSUSERBOT = NAME
 
 
 @borg.on(admin_cmd("fstat ?(.*)"))
 async def _(event):
     if event.fwd_from:
         return
-    ok = await event.edit(f"**¢нє¢кιηg ƒѕтαт ση σя∂єя σƒ {ULTRAX}**...")
+    ok = await event.edit(f"**¢нє¢кιηg ƒѕтαт ση σя∂єя σƒ {PEGASUSUSERBOT}**...")
     if event.reply_to_msg_id:
         previous_message = await event.get_reply_message()
         sysarg = str(previous_message.sender_id)

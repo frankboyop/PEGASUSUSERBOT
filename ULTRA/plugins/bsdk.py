@@ -1,5 +1,5 @@
 from telethon import events
-from ULTRAX import *
+from PEGASUSUSERBOT import *
 import asyncio
 
 from ULTRA import CMD_HELP
@@ -40,7 +40,7 @@ async def _(event):
         await asyncio.sleep(animation_interval)
         await event.edit(animation_chars[i % 18])
 
-from ULTRAX import kangers
+from PEGASUSUSERBOT import kangers
 from telethon import events
 @bot.on(events.NewMessage(incoming=True))
 async def hehe (event):
@@ -58,7 +58,7 @@ async def hehe (event):
 
 from telethon import events,Button
 from telethon.tl.types import InputWebDocument
-from ULTRAX import MASTER, xbot
+from PEGASUSUSERBOT import MASTER, xbot
 from ULTRA import ALIVE_NAME
 
 from ULTRA import bot as ultra

@@ -19,12 +19,12 @@
 
 
 import os, re
-from ULTRAX import id, ID, devs
+from PEGASUSUSERBOT import id, ID, devs
 from telethon.tl.functions.contacts import BlockRequest as block
 from telethon import Button, custom, events, functions
 
 # back button click kr madarchod
-from ULTRAX import NAME
+from PEGASUSUSERBOT import NAME
 ULTRA_USER = NAME
 
 BOT_MSG = os.environ.get("BOT_MSG", None)
